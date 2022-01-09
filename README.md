@@ -1,7 +1,7 @@
 # Game_rock_paper_scissors
 Game rock paper scissors 
 
-##How to play
+## How to play
 
 - Use RStudio Cloud or RStudio Desktop in play
 - Run code and play in console : rps()
